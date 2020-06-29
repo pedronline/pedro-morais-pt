@@ -1,0 +1,36 @@
+module.exports = {
+  defaultTitle: 'Pedro Morais',
+  logo: '',
+  author: 'Pedro Morais',
+  url: 'https://pedro-morais.pt',
+  legalName: 'Pedro Morais',
+  defaultDescription: 'I’m Pedro Morais and I’m a FullStack Developer!',
+  socialLinks: {
+    twitter: 'http://www.twitter.com/o_pedromorais',
+    github: 'https://github.com/pedronline',
+    linkedin: 'https://www.linkedin.com/in/pedronline/',
+    // instagram: '',
+    // youtube: '',
+    // google: '',
+    // telegram: '',
+    // stackOverflow: '',
+  },
+  googleAnalyticsID: '',
+  themeColor: '#6b63ff',
+  backgroundColor: '#6b63ff',
+  social: {
+    facebook: 'appId',
+    twitter: '@o_pedromorais',
+  },
+  address: {
+    city: 'City',
+    region: 'Region',
+    country: 'Country',
+    zipCode: 'ZipCode',
+  },
+  contact: {
+    email: 'dev.pedrom@gmail.com',
+    phone: 'phone number',
+  },
+  foundingDate: '2020',
+};
